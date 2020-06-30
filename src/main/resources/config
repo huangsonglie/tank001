@@ -1,0 +1,7 @@
+goodTankFireStrategy=com.zl.FourDirFireStrategy
+badTankFireStrategy=com.zl.DefaultFireStrategy
+
+colliders=com.zl.cor.BulletTankCollider,\
+com.zl.cor.TankTankCollider,\
+com.zl.cor.BulletWallCollider,\
+com.zl.cor.TankWallCollider
